@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_name_here">Your_name_here</string>
+    <string name="name">Name</string>
+    <string name="clear">Clear</string>
+    <string name="add">Add</string>
+
+</resources>
